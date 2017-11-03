@@ -2,4 +2,4 @@
 
 PRIVACY STATEMENT
 
-RawLapse does not upload or permanently store any photos taken within the app. 
+RawLapse does not upload or permanently store any photos taken within the app. We don't collect any user data, and the app does not use internet at all. All the required permissions are needed to take and save the photos locally.
